@@ -72,10 +72,3 @@ Route quality checks
 Mobile Direction
 
 The frontend can later be wrapped into a mobile app using a web-to-native shell such as Capacitor after the route rendering and API boundaries are stable.
-
-
-6. Доош scroll хийгээд **Commit changes** дар.
-
-7. Commit message:
-   ```text
-   Add architecture documentation
